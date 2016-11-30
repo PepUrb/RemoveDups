@@ -1,0 +1,17 @@
+{
+  "name": "array_of_objs",
+  "version": "1.0.0",
+  "description": "Set up an express server so that I can practice working with arrays of objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pepper Urbaniak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-winston": "^2.0.0",
+    "lodash": "^4.17.2",
+    "winston": "^2.3.0"
+  }
+}
